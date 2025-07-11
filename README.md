@@ -13,9 +13,6 @@ A modern, responsive web application for automatically cropping PNG images by re
 - **File Management**: Easy file selection, preview, and removal
 - **Progress Tracking**: Visual feedback during processing
 
-## 🚀 Demo
-
-![PNG Frame Editor Demo](https://via.placeholder.com/800x400/667eea/ffffff?text=PNG+Frame+Editor+Demo)
 
 ## 🛠️ Technologies Used
 
